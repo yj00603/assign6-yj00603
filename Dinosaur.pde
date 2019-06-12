@@ -1,3 +1,5 @@
+
+
 class Dinosaur extends Enemy {
 	// Requirement #4: Complete Dinosaur Class
   float currentSpeed = 1f ;
